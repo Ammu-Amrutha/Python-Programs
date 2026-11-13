@@ -1,0 +1,5 @@
+Hello World
+Welcome to Python
+File Handling
+Line By Line
+sample text
